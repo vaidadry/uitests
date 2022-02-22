@@ -6,5 +6,4 @@ dependencyResolutionManagement {
     }
 }
 rootProject.name = "seb-ui-tests"
-include ':app'
 include ':uitests'
